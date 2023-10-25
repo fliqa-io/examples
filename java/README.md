@@ -1,6 +1,6 @@
-# Fliqa java code examples
+# Fliqa Java code examples
 
-Project contains java code examples referenced from [documentation.fliqa.io](https://documentation.fliqa.io)
+Project contains Java code examples referenced from [documentation.fliqa.io](https://documentation.fliqa.io)
 
 > **NOTE:** The code examples provided are for illustration purposes only. **Use at own risk!**
 
