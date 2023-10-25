@@ -1,0 +1,20 @@
+{
+  "paymentId": "db28548a55324390a418bea83e143489",
+  "status": "started",
+  "created": "2023-08-02T11:35:10.443Z",
+  "modified": "2023-08-02T11:35:10.537Z",
+  "paymentData": null,
+  "providerId": "erstegroup-at-20320-AT",
+  "name": "Testiram API",
+  "description": "",
+  "pointOfSaleId": "Tiramisu-test-3",
+  "sourceIban": null,
+  "sourceName": null,
+  "targetIban": "SI56290000117551150",
+  "targetName": null,
+  "amount": 1.12,
+  "currency": "EUR",
+  "country": "AT",
+  "data": [],
+  "locale": null
+}
