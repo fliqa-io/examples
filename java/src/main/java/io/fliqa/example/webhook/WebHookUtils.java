@@ -17,6 +17,10 @@ import java.util.*;
  */
 public class WebHookUtils {
 
+    private WebHookUtils() { // hide constructor
+        throw new IllegalStateException("Utility class!");
+    }
+
     private static final String DIGEST = "HmacSHA256";
     private static final String TIME_STAMP = "t=";
     private static final String VERIFICATION = "v=";
