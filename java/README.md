@@ -7,7 +7,7 @@ Project contains Java code examples referenced from [documentation.fliqa.io](htt
 ## Build project
 
 Build project using maven
-```
+```bash
 mvn clean compile test
 ```
 
