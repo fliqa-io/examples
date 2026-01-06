@@ -6,7 +6,7 @@ Project contains PHP code examples referenced from [documentation.fliqa.io](http
 
 ## See following examples
 
-- WebHook check of signature verification [WebHookUtils.java](php/webhook-utils.php)
+- WebHook check of signature verification [webhook-utils.php](https://github.com/fliqa-io/examples/blob/main/php/webhook-utils.php)
 
 ### Usage
 
